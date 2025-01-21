@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 Getting Started
-To get started with the Todo App, follow these steps:
+To get started with the App, follow these steps:
 Clone the Repository:
 Start by cloning this GitHub repository to your local machine
 
